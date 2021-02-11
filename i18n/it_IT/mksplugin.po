@@ -165,13 +165,13 @@ msgstr "Collegato a TFT su <message>{0}</message>"
 #, python-brace-format
 msgctxt "@action:button Don't translate the XML tags <message>!"
 msgid "Print over <message>{0}</message>"
-msgstr "Stampa sopra <message>{0}</message>"
+msgstr "Stampa con <message>{0}</message>"
 
 #: MKSOutputDevice.py:221
 #, python-brace-format
 msgctxt "@properties:tooltip Don't translate the XML tags <message>!"
 msgid "Print over <message>{0}</message>"
-msgstr "Stampa sopra <message>{0}</message>"
+msgstr "Stampa con <message>{0}</message>"
 
 #: MKSOutputDevice.py:222
 #, python-brace-format
@@ -224,7 +224,7 @@ msgstr "Invio Stampa"
 #: MKSOutputDevice.py:231
 msgctxt "@label"
 msgid "Print job"
-msgstr "Lavoro di stampa"
+msgstr "Stampa"
 
 #: MKSOutputDevice.py:232
 msgctxt "@info:status"
@@ -244,7 +244,7 @@ msgstr "Adesso sta stampando. Invio file alla stampante non riuscito."
 #: MKSOutputDevice.py:235
 msgctxt "@info:status"
 msgid "Print job was successfully sent to the printer."
-msgstr "Il lavoro di stampa è stato inviato con successo alla stampante."
+msgstr "La stampa è stata inviata con successo alla stampante."
 
 #: MKSOutputDevice.py:236
 msgctxt "@warning:status"
@@ -279,7 +279,7 @@ msgstr "E1"
 #: qml/MonitorItem4x.qml:314
 msgctxt "@action:button"
 msgid "SD Files"
-msgstr "File su SD"
+msgstr "File SD"
 
 #: qml/MonitorItem4x.qml:324
 msgctxt "@tooltip"
